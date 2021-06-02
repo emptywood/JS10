@@ -1,0 +1,35 @@
+#container {
+	width: 80%;
+	margin: auto;
+}
+#slot {
+	display: flex;
+}
+#slot p {
+	width: 4rem;
+	font-size: 3rem;
+	font-weight: bold;
+	background-color: #000;
+	color: #fff;
+	margin: 5px;
+	text-align: center;
+}
+#btns button{
+	width: 4rem;
+	margin: 3px;
+}
+
+.red {
+	color: #c00;
+}
+.big {
+	font-size: 1.6rem;
+}
+#coins {
+	background-color: #000;
+	color: #fff;
+	width: 3rem;
+	font-weight: bold;
+	text-align: right;
+	padding: 0.2rem;
+}
